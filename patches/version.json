@@ -1,14 +1,14 @@
 {
-    "latest_version": "2.2.1.237.151",
+    "latest_version": "2.2.2.237.152",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.2.1.237.151/patch.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.2.2.237.152/patch.zip",
     "package_type": "patch_zip",
-    "sha256": "51eed5dc77daa46e4f1d5a317b0d3fc463534818c571aa11c04a871991ea2ba3",
-    "file_size": 108194,
+    "sha256": "6a09b3f87cfbacf1f1730dcf8907db9cd288cc1afcd664709762f6d3012ca25c",
+    "file_size": 168501,
     "changes": [
-        "Silent Patch System, SSOT Version Synchronizer, Terms & Privacy update",
-        "Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/login_window.py, app/main_window.py, config/patch_config.json"
+        "⚡ Silent Patch System, Graceful 404 Recovery, SSOT Sync & Emojis update",
+        "📦 Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/admin_window.py, app/api_client.py, app/config.py, app/crash_reporting.py, app/customer_window.py, app/employee_manager.py, app/i18n.py, app/login_window.py, app/main_window.py, app/models.py, app/notifications.py, app/software_info.py, app/storage.py, app/theme.py, app/update_dialog.py, app/user_guide.py, app/__init__.py, app/billing/backup.py, app/billing/model.py, app/billing/pdf.py, app/billing/printer.py, config/patch_config.json"
     ],
     "release_date": "2026-09-26",
-    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.2.1.237.151"
+    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.2.2.237.152"
 }
