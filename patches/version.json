@@ -1,0 +1,14 @@
+{
+    "latest_version": "1.0.1",
+    "mandatory": false,
+    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v1.0.1/patch.zip",
+    "package_type": "patch_zip",
+    "sha256": "7725f32304eb42e42654d5818d284bbdd1ced27066961d1829382fc3c7ce1453",
+    "file_size": 15420,
+    "changes": [
+        "Fix GST calculation rounding bug",
+        "Updated files: gst/accounting.py"
+    ],
+    "release_date": "2026-09-26",
+    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v1.0.1"
+}
