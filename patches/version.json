@@ -1,14 +1,14 @@
 {
-    "latest_version": "2.2.1.237.150",
+    "latest_version": "2.2.1.237.151",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v1.0.1/patch.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.2.1.237.151/patch.zip",
     "package_type": "patch_zip",
-    "sha256": "7725f32304eb42e42654d5818d284bbdd1ced27066961d1829382fc3c7ce1453",
-    "file_size": 15420,
+    "sha256": "51eed5dc77daa46e4f1d5a317b0d3fc463534818c571aa11c04a871991ea2ba3",
+    "file_size": 108194,
     "changes": [
-        "Fix GST calculation rounding bug",
-        "Updated files: gst/accounting.py"
+        "Silent Patch System, SSOT Version Synchronizer, Terms & Privacy update",
+        "Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/login_window.py, app/main_window.py, config/patch_config.json"
     ],
     "release_date": "2026-09-26",
-    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v1.0.1"
+    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.2.1.237.151"
 }
