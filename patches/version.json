@@ -1,14 +1,14 @@
 {
-    "latest_version": "2.2.2.237.152",
+    "latest_version": "2.3.3.250.153",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.2.2.237.152/patch.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.3.3.250.153/patch.zip",
     "package_type": "patch_zip",
-    "sha256": "6a09b3f87cfbacf1f1730dcf8907db9cd288cc1afcd664709762f6d3012ca25c",
-    "file_size": 168501,
+    "sha256": "f9c2d89e2ae4d5de52c513c93dafe343d95cb6a72eefa855ac77b669f7e9113d",
+    "file_size": 188580,
     "changes": [
-        "⚡ Silent Patch System, Graceful 404 Recovery, SSOT Sync & Emojis update",
-        "📦 Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/admin_window.py, app/api_client.py, app/config.py, app/crash_reporting.py, app/customer_window.py, app/employee_manager.py, app/i18n.py, app/login_window.py, app/main_window.py, app/models.py, app/notifications.py, app/software_info.py, app/storage.py, app/theme.py, app/update_dialog.py, app/user_guide.py, app/__init__.py, app/billing/backup.py, app/billing/model.py, app/billing/pdf.py, app/billing/printer.py, config/patch_config.json"
+        "Software Deactivation (Developer Only), Version display on login, and UI updates",
+        "📦 Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/admin_window.py, app/api_client.py, app/config.py, app/crash_reporting.py, app/customer_window.py, app/employee_manager.py, app/i18n.py, app/login_window.py, app/main_window.py, app/models.py, app/notifications.py, app/patch_panel.py, app/software_info.py, app/storage.py, app/theme.py, app/update_dialog.py, app/user_guide.py, app/__init__.py, app/billing/backup.py, app/billing/model.py, app/billing/pdf.py, app/billing/printer.py, config/patch_config.json"
     ],
-    "release_date": "2026-09-26",
-    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.2.2.237.152"
+    "release_date": "2026-09-29",
+    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.3.3.250.153"
 }
