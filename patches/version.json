@@ -1,14 +1,14 @@
 {
-    "latest_version": "2.3.4.252.155",
+    "latest_version": "1.1",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v2.3.4.252.155/patch.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-patches/releases/download/v1.1/patch.zip",
     "package_type": "patch_zip",
-    "sha256": "875ea23dff22300e7708eea6c072980c9bd2ffd40df7baee0d40d7f52cc67524",
-    "file_size": 217491,
+    "sha256": "621d24c1d097cd7dbd07418d8451d8d02f4c7e48d583ab232d75c715504ad1bd",
+    "file_size": 385667,
     "changes": [
-        "Silent Patch v2.3.4.252.155: Dynamic Login Window Version Auto-Update & PyInstaller Clean Environment Isolation",
-        "📦 Updated files: patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, app/admin_window.py, app/api_client.py, app/config.py, app/crash_reporting.py, app/customer_window.py, app/employee_manager.py, app/i18n.py, app/login_window.py, app/main_window.py, app/models.py, app/notifications.py, app/patch_panel.py, app/software_info.py, app/storage.py, app/theme.py, app/update_dialog.py, app/user_guide.py, app/__init__.py, app/billing/backup.py, app/billing/model.py, app/billing/pdf.py, app/billing/printer.py, version.py, update/updater.py, update/version.py, config/patch_config.json, version.txt, login.py"
+        "Silent Hotfix v1.1: Dynamic Version Engine & PyInstaller Subprocess Isolation Fix",
+        "📦 Updated files: patch_version.txt, pyi_rth_tkinter_paths.py, qtquickcontrols2.conf, qt_main.py, updater.py, version.py, app/admin_window.py, app/api_client.py, app/config.py, app/crash_reporting.py, app/customer_window.py, app/employee_manager.py, app/i18n.py, app/login_window.py, app/main_window.py, app/models.py, app/notifications.py, app/patch_panel.py, app/software_info.py, app/storage.py, app/theme.py, app/update_dialog.py, app/user_guide.py, app/__init__.py, backend/.env, backend/.env.example, backend/.gitignore, backend/audit_supabase.py, backend/bug_reports.sql, backend/config.py, backend/email_service.py, backend/main.py, backend/models.py, backend/README.md, backend/repository.py, backend/requirements.txt, backend/schema.sql, backend/__init__.py, core/birthday_reminder.py, core/data_archiver.py, core/email_invoice.py, core/health_monitor.py, core/loyalty_engine.py, core/pin_lock.py, core/recurring_bill.py, core/session_guard.py, core/smart_suggest.py, core/sms_gateway.py, core/upi_payment.py, core/whatsapp_sender.py, core/__init__.py, gst/accounting.py, gst/__init__.py, licensing/cache.py, licensing/constants.py, licensing/license_core.py, licensing/license_crypto.py, licensing/license_device.py, licensing/license_models.py, licensing/license_storage.py, licensing/offline.py, licensing/online.py, licensing/sync.py, licensing/__init__.py, patch/patch_loader.py, patch/patch_manager.py, patch/patch_worker.py, patch/__init__.py, ui/admin.py, ui/analytics.py, ui/android_switch.py, ui/audit_log.py, ui/feature_dialogs.py, ui/info_window.py, ui/insights.py, ui/loyalty.py, ui/maintenance.py, ui/membership_graph.py, ui/notification_center.py, ui/operations.py, ui/qml_bridge.py, ui/quick_search.py, ui/sales_report.py, ui/tooltips.py, ui/whatsapp_hub.py, ui/year_summary.py, ui/_shared.py, ui/__init__.py, ui/qml/AndroidBottomSheet.qml, ui/qml/AndroidCard.qml, ui/qml/AndroidHeroBanner.qml, ui/qml/AndroidShowcase.qml, ui/qml/qtquickcontrols2.conf, app/billing/backup.py, app/billing/model.py, app/billing/pdf.py, app/billing/printer.py, update/app_version.json, update/patch_version.txt, update/updater.py, update/update_config.json, update/update_dialog.py, update/update_info.json, update/version.py, update/version.txt, update/__init__.py, login.py, main.py, version.txt"
     ],
     "release_date": "2026-09-30",
-    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v2.3.4.252.155"
+    "notes": "https://github.com/Zeus756653658/BillingX-patches/releases/tag/v1.1"
 }
